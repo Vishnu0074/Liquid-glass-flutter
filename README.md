@@ -10,6 +10,8 @@ Glassmorphism blur background using BackdropFilter
 Gradient tint for success and error states
 
 Floating SnackBar style
+<img width="421" height="203" alt="2026-02-09_17-12-42" src="https://github.com/user-attachments/assets/914aef78-88ff-499a-98c4-d4501aaf2b05" />
+
 
 Tablet-friendly max width handling
 
